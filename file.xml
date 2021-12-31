@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user>
+        <id>1</id>
+        <name>Ahmad</name>
+        <family>Rezaei</family>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Asghar</name>
+        <family>Shah Moradi</family>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Mohammad</name>
+        <family>Mohammadi</family>
+    </user>
+    <user>
+        <id>4</id>
+        <name>Yousef</name>
+        <family>Arbab</family>
+    </user>
+</users>

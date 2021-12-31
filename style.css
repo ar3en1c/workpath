@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+.body{
+    margin: 10px;
+    padding: 10px;
+}
+.i1{
+    font-family: 'Lalezar', cursive;
+}
+.button{
+    background-color: #6750A4;
+    color: white;
+    box-shadow: #000000;
+    font-family: 'Lalezar', cursive;
+    line-height: 20px;
+    font-size: 14px;
+    letter-spacing: 0.1px;
+    /*font-weight: 500px;*/
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align:center;
+}
